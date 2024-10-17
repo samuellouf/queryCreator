@@ -1,0 +1,10 @@
+body {
+  font-family: 'Calibri', sans-serif;
+}
+
+code.styled, pre.styled {
+  background-color: white;
+  border: #00000020 solid;
+  border-radius: 5px;
+  padding: 5px;
+}
